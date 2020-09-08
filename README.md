@@ -4,6 +4,12 @@ This repository includes the data for the paper "CIMA: Construction of a Large O
 
 Data is made available under the Creative Commons 2.5 license (https://creativecommons.org/licenses/by/2.5/).  
 
+The following are the keys for TutorActions and StudentActions, which are a list of booleans corresponding to the following actions:
+
+Tutor Action Key:  [Question, Hint/Information Reveal, Correction, Confirmation, Other]
+
+Student Action Key: [Guess, Question, Affirmation, Other]
+
 If you make use of this data, please cite our paper:
 ```
 @inproceedings{stasaski-etal-2020-cima,
